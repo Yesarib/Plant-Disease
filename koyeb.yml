@@ -4,4 +4,3 @@ deploy:
   steps:
     - run: pip install -r requirements.txt
     - run: python api.py
-  subPath: path/to/your/app
