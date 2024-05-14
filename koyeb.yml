@@ -1,6 +1,0 @@
-name: my-python-app
-image: python:latest
-deploy:
-  steps:
-    - run: pip install -r requirements.txt
-    - run: python api.py
