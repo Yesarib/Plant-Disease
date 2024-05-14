@@ -1,0 +1,9 @@
+Test/
+Train/
+Validation/
+.idea/
+venv/
+dataset/
+.env
+plant_disease.h5
+pdr.h5
